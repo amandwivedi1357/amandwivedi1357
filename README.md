@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aman Dwivedi</h1>
 <h3 align="center">I am an aspiring web development professional, great commands at frontend designing and user-centric solutions. Collaborative, team player and also with great leadership quality in working with teams and executing goal-oriented projects. Strongly interested in obtaining the web developer position to contribute to the enhancement of the product.</h3>
-<img align = "center" alt = "coding" width = "600px" src = "https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
+<img align = "center" alt = "coding" width = "600px" marginLeft="60px" src = "https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amandwivedi1357&label=Profile%20views&color=0e75b6&style=flat" alt="amandwivedi1357" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amandwivedi1357" alt="amandwivedi1357" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amandwivedi1357" alt="amandwivedi1357" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **redux,react-redux**
 
