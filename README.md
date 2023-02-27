@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aman Dwivedi</h1>
-<h3 align="center">A passionate MERN stack developer from India</h3>
+<h3 align="center">I am an aspiring web development professional, great commands at frontend designing and user-centric solutions. Collaborative, team player and also with great leadership quality in working with teams and executing goal-oriented projects. Strongly interested in obtaining the web developer position to contribute to the enhancement of the product.</h3>
 <img align = "right" alt = "coding" width = "400px" src = "https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amandwivedi1357&label=Profile%20views&color=0e75b6&style=flat" alt="amandwivedi1357" /> </p>
