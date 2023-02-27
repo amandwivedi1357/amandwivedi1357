@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **amandwivedi1357@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1SpD8vpI2MCQD4kZET9t3dMA9-4Fz5SlY/view?usp=share_link](https://drive.google.com/file/d/1SpD8vpI2MCQD4kZET9t3dMA9-4Fz5SlY/view?usp=share_link)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1SpD8vpI2MCQD4kZET9t3dMA9-4Fz5SlY/view?usp=share_link">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
